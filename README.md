@@ -1,5 +1,5 @@
 # LMC 3403 - Technical Communication (Summer 2022)
-![giphy](https://github.com/tle9/LMC-3403/assets/148303927/88c54e4d-492d-42f7-ac7d-4837286d5019)
+![giphy](https://github.com/tle9/LMC-3403/assets/148303927/a48735af-c97d-4461-9927-c7dca6461d85)
 
 ## Class Objective:
 - At Georgia Tech, the technical communication courses are multimodal. Tech comm builds on the competencies developed in English 1101 and 1102, with an emphasis on communicating in business, science, engineering, and other technical disciplines. Students learn to create workplace genres—from traditional print documents such as correspondence, proposals, and reports to electronic forms such as emails, interactive maps, visualizations, websites, and social media. Students in technical communication learn to assess rhetorical situations underlying workplace genres as they discuss some of the theories and research that define technical communication as a discipline.
